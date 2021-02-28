@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CarApp</string>
+    <string name="internet_connection_error">Internet Connection Error!</string>
+    <string name="brand">Brand: %s</string>
+    <string name="year">Year: %s</string>
+    <string name="status">Status: %s</string>
+    <string name="used">Used</string>
+    <string name="newOn">New</string>
+    <string name="unknown">Unknown</string>
+</resources>

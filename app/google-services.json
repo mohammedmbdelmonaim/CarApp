@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "411350246404",
+    "project_id": "carapp-c67c5",
+    "storage_bucket": "carapp-c67c5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:411350246404:android:114407384a9def91794151",
+        "android_client_info": {
+          "package_name": "com.unicom.carapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "411350246404-6lb1jsoherii1t322073h0ll9k8rvr98.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBosuLGRw18M6I6RTNFBN2FKKDid7B1-Iw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "411350246404-6lb1jsoherii1t322073h0ll9k8rvr98.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

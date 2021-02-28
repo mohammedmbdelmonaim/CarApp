@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CarApp</string>
+    <string name="internet_connection_error">خطأ الاتصال بالأنترنت!</string>
+    <string name="brand">الماركة: %s</string>
+    <string name="year">السنة: %s</string>
+    <string name="status">الحالة: %s</string>
+    <string name="used">مستعمل</string>
+    <string name="newOn">جديد</string>
+    <string name="unknown">غير معروف</string>
+</resources>
